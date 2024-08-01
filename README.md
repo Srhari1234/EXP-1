@@ -10,3 +10,11 @@ CODE1:
 OUTPUT1:
 
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/ba5edd8f-9571-4b42-a46a-c7c97038eb88">
+
+Conclusion:
+
+1] VS Code Download: Downloading and setting up Visual Studio Code (VS Code) is straight forward and enhances your coding experience with its powerful features and extensions.
+
+2] Printing "Hello, World!" in C++: Writing a "Hello, World!" program in C++ introduces the basic structure of a C++ program and teaches you how to compile and run code in VS Code.
+
+3] Creating a Calculator in C++: Building a calculator helps you apply fundamental programming concepts like input/output handling, conditional statements, and loops.
