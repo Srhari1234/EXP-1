@@ -21,14 +21,11 @@
 7.A pop up window will appear for the installation of MinGW. Click on install.
  
 8] After this, various packages will appear. Tick all the required boxes you need for the c and c++ language.
- 
-
 
 9] Click on apply. Now MinGW is installed.
  
 10] After this go to THIS PC click on ‘Advanced System Settings’. A pop-up window will appear, then go to ‘Environmental Variables’.
  
-
 11] A pop-up window will appear. Click on new tab and add the link of the location of MingGW in THIS PC (in bin). And click on OK. Your Visual Studio Code is ready for use.
 
 ## CODE1:
@@ -45,6 +42,10 @@ std::cout<<"Hello World";
 return 0;
 }
 ```
+
+## OUTPUT1:
+
+![image](https://github.com/user-attachments/assets/b060df74-0f1f-4cf6-a528-1c1230169a30)
 
 ## CODE2:
 
@@ -81,6 +82,10 @@ return 0;
 
 }
 ```
+
+## OUTPUT2:
+
+![image](https://github.com/user-attachments/assets/85a7c15a-b64d-4ee1-8f9c-5efd86c148f6)
 
 ## Conclusion:
 
