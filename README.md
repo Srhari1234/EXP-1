@@ -6,13 +6,15 @@ Theory: VS code is a code editor that, with the appropriate extensions, can run 
 CODE1:
 
 ''' //Srihari Nair
-    //PRN 23070123131
-    //Exp 1
-    #include<iostream>
-    int main(){
+//PRN 23070123131
+//Exp 1
+#include<iostream>
+
+int main(){
     std::cout<<"Hello World";
+
     return 0;
-    } '''
+} '''
 
 Conclusion:
 
