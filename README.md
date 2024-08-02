@@ -5,11 +5,14 @@ Theory: VS code is a code editor that, with the appropriate extensions, can run 
 
 CODE1:
 
-<img width="211" alt="image" src="https://github.com/user-attachments/assets/726a26ca-cba8-4cdd-86f8-f92fdc6c9edb">
-
-OUTPUT1:
-
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/ba5edd8f-9571-4b42-a46a-c7c97038eb88">
+''' //Srihari Nair
+    //PRN 23070123131
+    //Exp 1
+    #include<iostream>
+    int main(){
+    std::cout<<"Hello World";
+    return 0;
+    } '''
 
 Conclusion:
 
