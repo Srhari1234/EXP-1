@@ -77,7 +77,7 @@ sum=num1+num2;
 
 cout<<"sum of given numbers="<<sum;
 
-return 0;
+return 0;
 
 }
 ```
