@@ -3,9 +3,10 @@
 
 ## Theory: VS code is a code editor that, with the appropriate extensions, can run all types of programs and codes. In the codes, MinGW is used to add the c++ extension printing hello world uses the "cout" character output, and the calculator program uses the arithmetic operators sum(+), difference(-), multiplication(*), and division(/).
 
-##INSTALLTION PROCESS OF VS CODE: -
+## INSTALLTION PROCESS OF VS CODE: -
 
-[How to dowload vs code and type hello world.pdf](https://github.com/user-attachments/files/16464906/How.to.dowload.vs.code.and.type.hello.world.pdf)
+
+[How to dowload vs code and type hello world.docx](https://github.com/user-attachments/files/16464942/How.to.dowload.vs.code.and.type.hello.world.docx)
 
 ## CODE:
 
